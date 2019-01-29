@@ -1,0 +1,1825 @@
+,Ambientes,Antigüedad,Baños,Bodegas,Camas,Cocheras,Departamentos por piso,Disposición,Dormitorios,Estadía mínima (noches),Expensas,Huéspedes,Orientación,Piso (unidad),Pisos,Superficie cubierta,Superficie total,Tipo de departamento,address,price
+0,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+1,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+2,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+3,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+4,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+5,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+6,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+7,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+8,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+9,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+10,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+11,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+12,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+13,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+14,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+15,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+16,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+17,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+18,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+19,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+20,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+21,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+22,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+23,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+24,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+25,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+26,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+27,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+28,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+29,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+30,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+31,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+32,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+33,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+34,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+35,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+36,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+37,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+38,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+39,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+40,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+41,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+42,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+43,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+44,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+45,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+46,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+47,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+48,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+49,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+50,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+51,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+52,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+53,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+54,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+55,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+56,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+57,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+58,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+59,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+60,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+61,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+62,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+63,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+64,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+65,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+66,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+67,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+68,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+69,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+70,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+71,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+72,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+73,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+74,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+75,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+76,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+77,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+78,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+79,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+80,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+81,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+82,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+83,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+84,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+85,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+86,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+87,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+88,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+89,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+90,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+91,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+92,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+93,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+94,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+95,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+96,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+97,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+98,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+99,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+100,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+101,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+102,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+103,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+104,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+105,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+106,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+107,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+108,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+109,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+110,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+111,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+112,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+113,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+114,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+115,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+116,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+117,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+118,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+119,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+120,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+121,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+122,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+123,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+124,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+125,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+126,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+127,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+128,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+129,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+130,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+131,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+132,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+133,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+134,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+135,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+136,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+137,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+138,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+139,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+140,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+141,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+142,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+143,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+144,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+145,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+146,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+147,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+148,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+149,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+150,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+151,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+152,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+153,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+154,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+155,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+156,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+157,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+158,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+159,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+160,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+161,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+162,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+163,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+164,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+165,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+166,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+167,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+168,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+169,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+170,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+171,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+172,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+173,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+174,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+175,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+176,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+177,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+178,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+179,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+180,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+181,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+182,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+183,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+184,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+185,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+186,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+187,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+188,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+189,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+190,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+191,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+192,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+193,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+194,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+195,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+196,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+197,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+198,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+199,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+200,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+201,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+202,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+203,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+204,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+205,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+206,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+207,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+208,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+209,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+210,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+211,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+212,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+213,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+214,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+215,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+216,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+217,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+218,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+219,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+220,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+221,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+222,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+223,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+224,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+225,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+226,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+227,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+228,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+229,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+230,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+231,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+232,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+233,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+234,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+235,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+236,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+237,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+238,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+239,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+240,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+241,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+242,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+243,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+244,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+245,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+246,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+247,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+248,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+249,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+250,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+251,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+252,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+253,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+254,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+255,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+256,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+257,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+258,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+259,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+260,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+261,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+262,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+263,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+264,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+265,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+266,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+267,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+268,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+269,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+270,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+271,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+272,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+273,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+274,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+275,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+276,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+277,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+278,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+279,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+280,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+281,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+282,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+283,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+284,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+285,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+286,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+287,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+288,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+289,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+290,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+291,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+292,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+293,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+294,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+295,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+296,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+297,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+298,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+299,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+300,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+301,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+302,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+303,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+304,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+305,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+306,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+307,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+308,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+309,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+310,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+311,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+312,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+313,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+314,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+315,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+316,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+317,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+318,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+319,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+320,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+321,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+322,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+323,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+324,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+325,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+326,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+327,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+328,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+329,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+330,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+331,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+332,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+333,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+334,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+335,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+336,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+337,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+338,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+339,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+340,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+341,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+342,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+343,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+344,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+345,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+346,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+347,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+348,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+349,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+350,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+351,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+352,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+353,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+354,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+355,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+356,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+357,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+358,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+359,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+360,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+361,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+362,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+363,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+364,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+365,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+366,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+367,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+368,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+369,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+370,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+371,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+372,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+373,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+374,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+375,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+376,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+377,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+378,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+379,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+380,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+381,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+382,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+383,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+384,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+385,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+386,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+387,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+388,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+389,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+390,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+391,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+392,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+393,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+394,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+395,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+396,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+397,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+398,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+399,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+400,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+401,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+402,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+403,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+404,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+405,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+406,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+407,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+408,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+409,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+410,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+411,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+412,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+413,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+414,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+415,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+416,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+417,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+418,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+419,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+420,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+421,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+422,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+423,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+424,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+425,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+426,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+427,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+428,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+429,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+430,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+431,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+432,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+433,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+434,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+435,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+436,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+437,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+438,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+439,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+440,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+441,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+442,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+443,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+444,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+445,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+446,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+447,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+448,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+449,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+450,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+451,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+452,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+453,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+454,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+455,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+456,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+457,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+458,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+459,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+460,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+461,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+462,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+463,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+464,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+465,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+466,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+467,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+468,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+469,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+470,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+471,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+472,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+473,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+474,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+475,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+476,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+477,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+478,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+479,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+480,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+481,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+482,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+483,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+484,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+485,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+486,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+487,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+488,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+489,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+490,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+491,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+492,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+493,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+494,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+495,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+496,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+497,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+498,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+499,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+500,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+501,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+502,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+503,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+504,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+505,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+506,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+507,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+508,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+509,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+510,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+511,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+512,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+513,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+514,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+515,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+516,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+517,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+518,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+519,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+520,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+521,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+522,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+523,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+524,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+525,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+526,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+527,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+528,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+529,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+530,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+531,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+532,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+533,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+534,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+535,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+536,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+537,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+538,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+539,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+540,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+541,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+542,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+543,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+544,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+545,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+546,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+547,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+548,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+549,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+550,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+551,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+552,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+553,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+554,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+555,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+556,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+557,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+558,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+559,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+560,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+561,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+562,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+563,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+564,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+565,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+566,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+567,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+568,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+569,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+570,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+571,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+572,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+573,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+574,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+575,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+576,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+577,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+578,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+579,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+580,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+581,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+582,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+583,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+584,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+585,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+586,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+587,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+588,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+589,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+590,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+591,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+592,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+593,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+594,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+595,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+596,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+597,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+598,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+599,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+600,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+601,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+602,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+603,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+604,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+605,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+606,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+607,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+608,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+609,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+610,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+611,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+612,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+613,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+614,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+615,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+616,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+617,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+618,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+619,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+620,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+621,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+622,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+623,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+624,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+625,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+626,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+627,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+628,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+629,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+630,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+631,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+632,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+633,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+634,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+635,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+636,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+637,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+638,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+639,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+640,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+641,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+642,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+643,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+644,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+645,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+646,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+647,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+648,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+649,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+650,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+651,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+652,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+653,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+654,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+655,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+656,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+657,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+658,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+659,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+660,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+661,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+662,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+663,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+664,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+665,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+666,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+667,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+668,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+669,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+670,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+671,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+672,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+673,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+674,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+675,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+676,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+677,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+678,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+679,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+680,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+681,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+682,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+683,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+684,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+685,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+686,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+687,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+688,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+689,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+690,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+691,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+692,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+693,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+694,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+695,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+696,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+697,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+698,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+699,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+700,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+701,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+702,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+703,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+704,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+705,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+706,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+707,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+708,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+709,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+710,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+711,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+712,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+713,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+714,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+715,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+716,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+717,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+718,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+719,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+720,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+721,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+722,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+723,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+724,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+725,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+726,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+727,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+728,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+729,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+730,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+731,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+732,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+733,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+734,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+735,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+736,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+737,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+738,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+739,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+740,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+741,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+742,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+743,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+744,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+745,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+746,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+747,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+748,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+749,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+750,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+751,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+752,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+753,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+754,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+755,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+756,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+757,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+758,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+759,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+760,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+761,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+762,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+763,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+764,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+765,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+766,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+767,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+768,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+769,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+770,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+771,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+772,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+773,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+774,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+775,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+776,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+777,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+778,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+779,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+780,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+781,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+782,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+783,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+784,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+785,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+786,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+787,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+788,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+789,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+790,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+791,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+792,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+793,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+794,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+795,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+796,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+797,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+798,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+799,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+800,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+801,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+802,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+803,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+804,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+805,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+806,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+807,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+808,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+809,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+810,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+811,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+812,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+813,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+814,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+815,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+816,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+817,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+818,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+819,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+820,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+821,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+822,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+823,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+824,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+825,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+826,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+827,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+828,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+829,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+830,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+831,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+832,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+833,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+834,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+835,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+836,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+837,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+838,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+839,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+840,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+841,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+842,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+843,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+844,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+845,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+846,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+847,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+848,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+849,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+850,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+851,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+852,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+853,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+854,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+855,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+856,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+857,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+858,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+859,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+860,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+861,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+862,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+863,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+864,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+865,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+866,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+867,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+868,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+869,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+870,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+871,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+872,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+873,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+874,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+875,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+876,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+877,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+878,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+879,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+880,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+881,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+882,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+883,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+884,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+885,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+886,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+887,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+888,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+889,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+890,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+891,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+892,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+893,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+894,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+895,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+896,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+897,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+898,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+899,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+900,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+901,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+902,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+903,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+904,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+905,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+906,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+907,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+908,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+909,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+910,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+911,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+912,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+913,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+914,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+915,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+916,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+917,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+918,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+919,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+920,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+921,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+922,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+923,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+924,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+925,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+926,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+927,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+928,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+929,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+930,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+931,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+932,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+933,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+934,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+935,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+936,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+937,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+938,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+939,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+940,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+941,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+942,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+943,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+944,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+945,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+946,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+947,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+948,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+949,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+950,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+951,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+952,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+953,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+954,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+955,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+956,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+957,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+958,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+959,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+960,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+961,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+962,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+963,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+964,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+965,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+966,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+967,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+968,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+969,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+970,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+971,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+972,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+973,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+974,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+975,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+976,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+977,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+978,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+979,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+980,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+981,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+982,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+983,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+984,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+985,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+986,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+987,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+988,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+989,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+990,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+991,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+992,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+993,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+994,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+995,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+996,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+997,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+998,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+999,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+1000,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+1001,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+1002,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+1003,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+1004,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+1005,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+1006,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+1007,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+1008,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+1009,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+1010,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+1011,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+1012,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1013,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1014,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1015,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1016,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+1017,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+1018,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+1019,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+1020,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+1021,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+1022,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+1023,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+1024,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+1025,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+1026,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+1027,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+1028,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+1029,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+1030,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+1031,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+1032,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+1033,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1034,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+1035,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+1036,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+1037,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+1038,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1039,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+1040,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+1041,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+1042,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+1043,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+1044,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+1045,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+1046,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+1047,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+1048,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+1049,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+1050,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+1051,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+1052,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+1053,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+1054,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+1055,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+1056,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+1057,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+1058,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+1059,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+1060,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1061,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1062,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1063,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1064,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+1065,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+1066,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+1067,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+1068,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+1069,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+1070,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+1071,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+1072,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+1073,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+1074,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+1075,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+1076,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+1077,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+1078,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+1079,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+1080,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+1081,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1082,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+1083,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+1084,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+1085,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+1086,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1087,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+1088,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+1089,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+1090,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+1091,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+1092,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+1093,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+1094,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+1095,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+1096,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+1097,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+1098,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+1099,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+1100,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+1101,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+1102,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+1103,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+1104,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+1105,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+1106,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+1107,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+1108,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1109,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1110,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1111,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1112,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+1113,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+1114,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+1115,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+1116,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+1117,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+1118,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+1119,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+1120,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+1121,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+1122,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+1123,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+1124,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+1125,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+1126,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+1127,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+1128,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+1129,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1130,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+1131,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+1132,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+1133,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+1134,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1135,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+1136,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+1137,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+1138,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+1139,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+1140,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+1141,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+1142,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+1143,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+1144,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+1145,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+1146,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+1147,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+1148,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+1149,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+1150,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+1151,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+1152,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+1153,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+1154,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+1155,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+1156,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1157,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1158,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1159,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1160,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+1161,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+1162,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+1163,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+1164,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+1165,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+1166,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+1167,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+1168,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+1169,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+1170,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+1171,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+1172,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+1173,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+1174,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+1175,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+1176,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+1177,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1178,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+1179,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+1180,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+1181,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+1182,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1183,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+1184,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+1185,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+1186,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+1187,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+1188,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+1189,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+1190,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+1191,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+1192,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+1193,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+1194,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+1195,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+1196,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+1197,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+1198,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+1199,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+1200,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+1201,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+1202,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+1203,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+1204,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1205,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1206,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1207,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1208,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+1209,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+1210,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+1211,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+1212,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+1213,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+1214,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+1215,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+1216,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+1217,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+1218,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+1219,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+1220,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+1221,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+1222,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+1223,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+1224,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+1225,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1226,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+1227,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+1228,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+1229,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+1230,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1231,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+1232,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+1233,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+1234,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+1235,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+1236,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+1237,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+1238,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+1239,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+1240,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+1241,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+1242,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+1243,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+1244,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+1245,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+1246,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+1247,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+1248,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+1249,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+1250,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+1251,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+1252,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1253,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1254,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1255,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1256,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+1257,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+1258,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+1259,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+1260,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+1261,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+1262,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+1263,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+1264,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+1265,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+1266,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+1267,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+1268,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+1269,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+1270,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+1271,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+1272,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+1273,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1274,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+1275,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+1276,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+1277,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+1278,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1279,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+1280,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+1281,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+1282,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+1283,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+1284,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+1285,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+1286,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+1287,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+1288,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+1289,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+1290,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+1291,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+1292,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+1293,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+1294,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+1295,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+1296,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+1297,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+1298,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+1299,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+1300,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1301,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1302,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1303,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1304,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+1305,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+1306,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+1307,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+1308,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+1309,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+1310,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+1311,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+1312,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+1313,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+1314,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+1315,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+1316,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+1317,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+1318,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+1319,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+1320,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+1321,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1322,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+1323,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+1324,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+1325,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+1326,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1327,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+1328,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+1329,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+1330,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+1331,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+1332,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+1333,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+1334,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+1335,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+1336,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+1337,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+1338,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+1339,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+1340,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+1341,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+1342,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+1343,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+1344,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+1345,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+1346,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+1347,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+1348,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1349,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1350,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1351,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1352,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+1353,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+1354,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+1355,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+1356,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+1357,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+1358,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+1359,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+1360,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+1361,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+1362,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+1363,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+1364,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+1365,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+1366,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+1367,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+1368,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+1369,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1370,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+1371,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+1372,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+1373,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+1374,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1375,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+1376,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+1377,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+1378,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+1379,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+1380,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+1381,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+1382,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+1383,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+1384,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+1385,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+1386,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+1387,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+1388,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+1389,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+1390,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+1391,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+1392,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+1393,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+1394,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+1395,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+1396,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1397,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1398,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1399,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1400,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+1401,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+1402,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+1403,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+1404,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+1405,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+1406,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+1407,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+1408,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+1409,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+1410,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+1411,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+1412,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+1413,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+1414,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+1415,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+1416,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+1417,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1418,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+1419,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+1420,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+1421,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+1422,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1423,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+1424,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+1425,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+1426,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+1427,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+1428,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+1429,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+1430,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+1431,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+1432,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+1433,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+1434,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+1435,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+1436,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+1437,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+1438,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+1439,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+1440,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+1441,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+1442,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+1443,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+1444,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1445,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1446,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1447,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1448,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+1449,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+1450,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+1451,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+1452,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+1453,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+1454,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+1455,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+1456,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+1457,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+1458,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+1459,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+1460,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+1461,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+1462,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+1463,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+1464,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+1465,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1466,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+1467,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+1468,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+1469,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+1470,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1471,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+1472,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+1473,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+1474,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+1475,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+1476,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+1477,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+1478,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+1479,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+1480,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+1481,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+1482,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+1483,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+1484,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+1485,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+1486,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+1487,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+1488,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+1489,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+1490,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+1491,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+1492,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1493,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1494,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1495,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1496,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+1497,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+1498,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+1499,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+1500,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+1501,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+1502,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+1503,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+1504,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+1505,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+1506,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+1507,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+1508,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+1509,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+1510,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+1511,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+1512,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+1513,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1514,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+1515,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+1516,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+1517,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+1518,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1519,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+1520,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+1521,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+1522,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+1523,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+1524,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+1525,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+1526,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+1527,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+1528,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+1529,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+1530,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+1531,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+1532,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+1533,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+1534,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+1535,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+1536,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+1537,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+1538,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+1539,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+1540,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1541,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1542,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1543,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1544,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+1545,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+1546,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+1547,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+1548,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+1549,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+1550,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+1551,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+1552,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+1553,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+1554,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+1555,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+1556,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+1557,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+1558,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+1559,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+1560,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+1561,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1562,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+1563,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+1564,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+1565,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+1566,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1567,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+1568,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+1569,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+1570,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+1571,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+1572,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+1573,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+1574,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+1575,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+1576,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+1577,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+1578,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+1579,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+1580,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+1581,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+1582,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+1583,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+1584,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+1585,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+1586,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+1587,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+1588,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1589,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1590,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1591,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1592,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+1593,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+1594,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+1595,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+1596,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+1597,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+1598,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+1599,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+1600,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+1601,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+1602,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+1603,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+1604,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+1605,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+1606,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+1607,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+1608,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+1609,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1610,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+1611,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+1612,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+1613,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+1614,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1615,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+1616,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+1617,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+1618,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+1619,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+1620,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+1621,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+1622,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+1623,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+1624,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+1625,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+1626,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+1627,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+1628,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+1629,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+1630,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+1631,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+1632,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+1633,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+1634,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+1635,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+1636,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1637,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1638,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1639,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1640,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+1641,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+1642,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+1643,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+1644,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+1645,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+1646,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+1647,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+1648,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+1649,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+1650,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+1651,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+1652,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+1653,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+1654,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+1655,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+1656,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+1657,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1658,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+1659,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+1660,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+1661,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+1662,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1663,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+1664,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+1665,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+1666,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+1667,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+1668,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+1669,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+1670,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+1671,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+1672,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+1673,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+1674,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+1675,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+1676,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+1677,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+1678,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+1679,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+1680,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+1681,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+1682,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+1683,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+1684,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1685,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1686,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1687,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1688,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+1689,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+1690,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+1691,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+1692,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+1693,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+1694,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+1695,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+1696,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+1697,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+1698,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+1699,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+1700,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+1701,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+1702,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+1703,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+1704,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+1705,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1706,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+1707,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+1708,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+1709,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+1710,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1711,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+1712,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+1713,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+1714,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+1715,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+1716,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+1717,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+1718,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+1719,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+1720,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+1721,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+1722,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+1723,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+1724,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+1725,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+1726,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+1727,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+1728,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+1729,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+1730,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+1731,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+1732,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1733,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1734,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1735,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1736,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+1737,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+1738,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+1739,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+1740,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+1741,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+1742,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+1743,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+1744,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+1745,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+1746,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+1747,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+1748,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+1749,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+1750,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+1751,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+1752,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+1753,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1754,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+1755,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+1756,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+1757,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+1758,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1759,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+1760,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+1761,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+1762,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+1763,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+1764,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+1765,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+1766,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+1767,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+1768,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+1769,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+1770,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+1771,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+1772,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+1773,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+1774,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+1775,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
+1776,3,25 años,1,,,,3,Contrafrente,2,,1700,,Este,,7,45,45,Departamento,Corrientes 5943,13500
+1777,1,,1,,,,,,1,,,,,,,34,34,,Sarmiento 2234,8300
+1778,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 23,8400
+1779,1,20 años,1,,,,3,Contrafrente,,,1700,,Este,,3,25,25,Departamento,Lemos 83,8700
+1780,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1781,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1782,4,20 años,3,,,1,,Frente,3,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1783,3,20 años,3,,,1,,Frente,2,,12500,,Norte,,1,110,115,,Migueletes Al 1000,55000
+1784,2,,1,,,,,,1,,,,,,,30,30,,Republica De La India 2900,500
+1785,3,40 años,3,,,,,Contrafrente,2,,8000,,,,,90,268,Departamento,Uruguay Al 1200,45000
+1786,4,20 años,2,,,1,,Contrafrente,3,,12000,,Este,,1,145,157,,"Godoy Cruz 3000, Piso 1",2800
+1787,4,40 años,2,,,1,,,2,,5600,,,,1,,,,Castex Al 3400,1300
+1788,3,0 años,1,,,,,,2,,5000,,,,,85,85,Departamento,Malabia Al 2200,23000
+1789,3,,1,,,,,Lateral,2,,,,,,,58,61,,"Agüero Al 1200, Entre Paraguay Y Mansilla",38000
+1790,3,,1,,,,,Frente,2,,,,,,,51,61,,"Beauchef Al 300, Entre Guayaquil Y Formosa",30000
+1791,2,6 años,1,,,,2,Frente,1,,,,Este,4,5,39,41,,Bonpland 2000,14000
+1792,2,,2,,,,,Frente,,,,,,,,70,70,,Tucuman 700 3° Entre Esmeralda Y Maipu,1000
+1793,3,40 años,1,,,,,Contrafrente,2,,2700,,,,,58,66,Departamento,Achával Al 200,17000
+1794,4,70 años,2,1,,,2,Frente,2,,,,Este,3,7,94,118,,Lima 707,23000
+1795,4,38 años,2,,,1,,Frente,2,,11800,,Este,,1,85,90,,Coronel Diaz 2000,27000
+1796,2,,1,,,,,Frente,1,,,,,,,40,44,,Pacheco De Melo  2900 6° Entre Billinghurst Y Sanchez De Bustamante,25000
+1797,2,0 años,1,,,,,,1,,3300,,,,,50,53,Departamento,Reconquista Al 1000,16900
+1798,4,,1,,,,,,2,,,,,,,90,90,,Rondeau 2300,19800
+1799,2,,1,,,1,,Frente,1,,,,,,,52,52,,Anchorena Al 1400 3° Entre  Arenales Y Santa Fe Av.,24000
+1800,2,,1,,,,,,1,,,,,,,38,42,,Aguirre 600,16000
+1801,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1802,2,,1,,,,,Frente,1,,,,,,,40,43,,Austria Al 2100 8,28000
+1803,2,,1,,,,,Frente,1,,,,,,,58,62,,"Maure Al 2800, Entre Cramer Y Conesa",30000
+1804,2,,1,,,,,Frente,1,,,,,,,40,50,,Humahuaca 3500 8° Entre Sanchez De Bustamante Y  Billinghurst,24000
+1805,3,,2,,4,,,Frente,2,30,,4,,,,65,70,,Demaria 4500,1800
+1806,3,10 años,1,,,,,Frente,2,,,,Oeste,,1,58,75,,Thorne Al 300,20000
+1807,3,,1,,,,,,2,,,,,,,60,60,Departamento,Tte Juan D Perón Al 4200,1100
+1808,2,,1,,,,,,1,,,,,,,38,38,,San Martin  3800,10900
+1809,2,,1,,,,,,1,,,3,,,,28,28,,Potosi 3966,900
+1810,3,0 años,1,,,,,Frente,,,5000,,Este,,,,,,"Formosa  Entre Viel Y Campos, Gaspar",20000
+1811,3,,2,,,1,,,3,,,,,,,78,85,,Manuel Ugarte 2709,25000
+1812,2,,1,,,1,,,1,,,,,,,48,82,,Naon 3237,17900
+1813,1,0 años,1,1,,,5,Contrafrente,1,,,,Este,5,5,23,23,,Carlos A. Lopez 2247,12800
+1814,3,,2,,,,,,1,,,,,,,65,65,,Peron 2300,17000
+1815,3,,2,,,,,,2,,,4,,,,55,55,,Charcas 3800,40000
+1816,2,0 años,2,,,1,1,Contrafrente,1,,,,,,,535,855,,Naon 3237,19800
+1817,2,,1,,,,,,1,,,,,,,35,35,Departamento,Juncal Al 1800,24000
+1818,1,25 años,1,,,,4,Contrafrente,1,,,,Norte,3,6,38,40,,Dr. Quirno Costa 1282,12000
+1819,3,,1,,,,,Frente,2,,,,,,,50,50,,Blanco Encalada Al 2600,30000
+1820,1,,1,,,,,,,,,,,,,35,35,Departamento,Juncal  Al 1600,28000
+1821,2,0 años,1,,,,4,Frente,1,,,,Oeste,5,10,43,43,,Parana 433,12000
+1822,1,,1,,,,,,,,,,,,,28,28,,Luis Maria Campos 1200,11000
+1823,3,20 años,1,,,,2,Contrafrente,2,,,,Norte,5,9,58,58,,Yerbal 41,14500
